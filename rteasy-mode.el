@@ -1,4 +1,4 @@
-;;; mylsl-mode.el --- major mode for editing Rteasy2 files. -*- coding: utf-8; lexical-binding: t; -*-
+;;; rteasy-mode.el --- major mode for editing Rteasy2 files. -*- coding: utf-8; lexical-binding: t; -*-
 
 ;;; Copyright © 2019 Fey Naomi Schrewe
 
